@@ -1,1 +1,5 @@
 .DS_Store
+
+# Custom configuration
+Fish_automated_identification_and_counting/
+datasets/
